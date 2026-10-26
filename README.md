@@ -1,13 +1,24 @@
 <!-- 🎀 HEADER -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC8DD,50:CDB4DB,100:A2D2FF&height=180&section=header&text=Hello,%20tari2025!&fontSize=38&fontColor=5B4168&animation=fadeIn&fontAlignY=45&desc=Learning%20%7C%20Growing%20%7C%20Creating&descSize=16&descAlignY=70" width="100%" alt="Pastel pink and lavender banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC8DD,50:CDB4DB,100:A2D2FF&height=180&section=header&text=Hello,%20DhenyLesta!&fontSize=38&fontColor=5B4168&animation=fadeIn&fontAlignY=45&desc=Learning%20%7C%20Growing%20%7C%20Creating&descSize=16&descAlignY=70" width="100%" alt="Pastel pink and lavender banner" />
 
   <h3>🌷 Hi, I'm Dheny Lesta! | IT Student | Web Development</h3>
 
   <p><i>"One step at a time, still making progress." ♡</i></p>
 <br/>
-<img width="1676" height="939" alt="kucingmelet" src="https://github.com/user-attachments/assets/20a7bd1a-3ff8-4b8e-966f-aa25f935dc5f" />
+
+<div align="center">
+  <img
+    src="<img width="1676" height="939" alt="kucingmelet" src="https://github.com/user-attachments/assets/20a7bd1a-3ff8-4b8e-966f-aa25f935dc5f" />
+"
+    width="350"
+    alt="Cute fluffy cat"
+  />
+</div>
+
+
+
 
   <br/><br/>
 
