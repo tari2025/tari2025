@@ -6,9 +6,8 @@
   <h3>🌷 Hi, I'm Dheny Lesta! | IT Student | Web Development</h3>
 
   <p><i>"One step at a time, still making progress." ♡</i></p>
-
-  <!-- GANTI FOTO KUCING DI SINI (Pastikan kamu sudah upload ke folder assets di repo profilmu) -->
-  <img src="https://raw.githubusercontent.com/tari2025/tari2025/main/assets/kucingmelet.png" width="250" alt="Kucing fluffy menjulurkan lidah" />
+<br/>
+<img width="1676" height="939" alt="kucingmelet" src="https://github.com/user-attachments/assets/20a7bd1a-3ff8-4b8e-966f-aa25f935dc5f" />
 
   <br/><br/>
 
@@ -25,29 +24,13 @@
 
   <h2>💗 My Featured Project</h2>
 
+  <p>My profile ✨</p>
   <a href="https://tari2025.github.io/introductionprofile/index8.html">
     <img src="https://img.shields.io/badge/🌷_My_Website_Profile-Visit_Project-FFC8DD?style=for-the-badge&labelColor=F5EEFF" alt="Visit My Website Profile" />
   </a>
 
-  <p>Website profil yang kubuat sebagai bagian dari perjalanan belajar web development.</p>
-
 </div>
 
----
-
-<!-- 💌 REMINDER -->
-<div align="center">
-
-  <h2>💌 A Little Reminder</h2>
-
-  <p>
-    🌱 <i>Jangan bandingkan prosesmu dengan orang lain.</i><br/>
-    <i>Setiap orang punya waktunya masing-masing.</i> ♡
-  </p>
-
-</div>
-
----
 
 <!-- 🧸 TECH STACK -->
 <div align="center">
