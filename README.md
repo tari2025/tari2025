@@ -43,7 +43,7 @@ Mahasiswa Teknologi Informasi yang sedang belajar dan berkembang di dunia pemrog
 
 Beberapa repository yang sedang aku kumpulkan sebagai perjalanan belajarku:
 
-- 📚 [Introduction 004](https://github.com/tari2025/introduction_004)
+- 📚 [Introduction](https://github.com/tari2025/introduceprofile.git)
 - 💡 [Conditional Statement](https://github.com/tari2025/004_ConditionalStatement)
 - 🔄 [Bubble Sort](https://github.com/tari2025/004_BubbleSort)
 - 🔁 [Looping Switch Case](https://github.com/tari2025/LoopingSwitchCase_0004)
