@@ -6,19 +6,11 @@
   <h3>🌷 Hi, I'm Dheny Lesta! | IT Student | Web Development</h3>
 
   <p><i>"One step at a time, still making progress." ♡</i></p>
-<br/>
 
-<div align="center">
-  <img
-    src="<img width="1676" height="939" alt="kucingmelet" src="https://github.com/user-attachments/assets/20a7bd1a-3ff8-4b8e-966f-aa25f935dc5f" />
-"
-    width="350"
-    alt="Cute fluffy cat"
-  />
-</div>
+  <br/>
 
-
-
+  <!-- REVISI GAMBAR KUCING (Hanya 1 tag img, link harus direct link) -->
+  <img src="LINK_GAMBAR_KUCING_KAMU_DISINI" width="250" alt="Cute fluffy cat" />
 
   <br/><br/>
 
@@ -36,12 +28,14 @@
   <h2>💗 My Featured Project</h2>
 
   <p>My profile ✨</p>
+  
   <a href="https://tari2025.github.io/introductionprofile/index8.html">
     <img src="https://img.shields.io/badge/🌷_My_Website_Profile-Visit_Project-FFC8DD?style=for-the-badge&labelColor=F5EEFF" alt="Visit My Website Profile" />
   </a>
 
 </div>
 
+---
 
 <!-- 🧸 TECH STACK -->
 <div align="center">
