@@ -1,7 +1,6 @@
-
 <div align="center">
 
-# 🎀 Hi, I'm Tari Lesta! ♡
+# 🎀 Hi, I'm Dheny Lesta! ♡
 
 ### ✨ IT Student | Web Development | Learning & Growing
 
@@ -11,18 +10,16 @@
 
 </div>
 
+## 💗 My Featured Project
+
+🎀 **Tari Lesta — Profile **
+
+✨ [Buka Website Profil ](https://tari2025.github.io/introductionprofile/index8.html)
+
+Website personal dengan desain estetik dan animasi. 💜🌸
+
+
 ---
-
-## 🌸 About Me
-
-Halo! Aku Tari Lesta 👋
-
-Mahasiswa Teknologi Informasi yang sedang belajar dan berkembang di dunia pemrograman. Aku tertarik dengan pengembangan web, aplikasi, dan teknologi baru.
-
-- 🌱 Sedang belajar **HTML, CSS, JavaScript, dan Kotlin**
-- 💻 Mengerjakan tugas kuliah dan proyek pemrograman
-- 🎯 Berusaha meningkatkan kemampuan coding setiap hari
-- 🌷 Percaya bahwa proses kecil tetap membawa kemajuan
 
 ## 💗 A Little Reminder
 
