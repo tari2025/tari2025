@@ -1,16 +1,11 @@
 <!-- 🎀 HEADER -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC8DD,50:CDB4DB,100:A2D2FF&height=180&section=header&text=Hello,%20DhenyLesta!&fontSize=38&fontColor=5B4168&animation=fadeIn&fontAlignY=45&desc=Learning%20%7C%20Growing%20%7C%20Creating&descSize=16&descAlignY=70" width="100%" alt="Pastel pink and lavender banner" />
-
-  <h3>🌷 Hi, I'm Dheny Lesta! | IT Student | Web Development</h3>
-
-  <p><i>"One step at a time, still making progress." ♡</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC8DD,50:CDB4DB,100:A2D2FF&height=180&section=header&text=Hello...!,%20I'm_DhenyLesta!&fontSize=38&fontColor=5B4168&animation=fadeIn&fontAlignY=45&desc=Learning%20%7C%20Growing%20%7C%20Creating&descSize=16&descAlignY=70" width="100%" alt="Pastel pink and lavender banner" />
 
   <br/>
 
-  <!-- REVISI GAMBAR KUCING (Hanya 1 tag img, link harus direct link) -->
-  <img src="LINK_GAMBAR_KUCING_KAMU_DISINI" width="250" alt="Cute fluffy cat" />
+<img width="350" height="196" alt="kucingmelet_kecil" src="https://github.com/user-attachments/assets/7cdbee98-6ec9-4a70-8125-daf096b06954" />
 
   <br/><br/>
 
@@ -25,9 +20,7 @@
 <!-- 💗 FEATURED PROJECT -->
 <div align="center">
 
-  <h2>💗 My Featured Project</h2>
-
-  <p>My profile ✨</p>
+  <p>My profile ✨ Click here ! </p> 
   
   <a href="https://tari2025.github.io/introductionprofile/index8.html">
     <img src="https://img.shields.io/badge/🌷_My_Website_Profile-Visit_Project-FFC8DD?style=for-the-badge&labelColor=F5EEFF" alt="Visit My Website Profile" />
@@ -39,8 +32,6 @@
 
 <!-- 🧸 TECH STACK -->
 <div align="center">
-
-  <h2>🧸 My Tech Stack</h2>
 
   <p>Tools and technologies that accompany my learning journey ✨</p>
 
@@ -56,10 +47,9 @@
 
 ---
 
-<!-- 📌 PROJECTS -->
+<!-- 📌 MY PROJECTS -->
 <div align="center">
 
-  <h2>📌 My Projects</h2>
 
   <p>Beberapa repository yang menjadi bagian dari perjalanan belajarku 🌷</p>
 
