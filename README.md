@@ -3,13 +3,14 @@
 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC8DD,50:CDB4DB,100:A2D2FF&height=180&section=header&text=Hello,%20tari2025!&fontSize=38&fontColor=5B4168&animation=fadeIn&fontAlignY=45&desc=Learning%20%7C%20Growing%20%7C%20Creating&descSize=16&descAlignY=70" width="100%" alt="Pastel pink and lavender banner" />
 
-  <h3>🌷 IT Student | Web Development | Learning & Growing</h3>
+  <h3>🌷 Hi, I'm Dheny Lesta! | IT Student | Web Development</h3>
 
   <p><i>"One step at a time, still making progress." ♡</i></p>
 
-  <img src="./assets/kucingmelet.png" width="230" alt="Kucing fluffy menjulurkan lidah" />
+  <!-- GANTI FOTO KUCING DI SINI (Pastikan kamu sudah upload ke folder assets di repo profilmu) -->
+  <img src="https://raw.githubusercontent.com/tari2025/tari2025/main/assets/kucingmelet.png" width="250" alt="Kucing fluffy menjulurkan lidah" />
 
-  <br/>
+  <br/><br/>
 
   <img src="https://img.shields.io/badge/🌱_Keep-Learning-FFC8DD?style=for-the-badge&labelColor=FFF0F6" alt="Keep Learning" />
   <img src="https://img.shields.io/badge/💗_Keep-Growing-CDB4DB?style=for-the-badge&labelColor=F5EEFF" alt="Keep Growing" />
@@ -25,7 +26,7 @@
   <h2>💗 My Featured Project</h2>
 
   <a href="https://tari2025.github.io/introductionprofile/index8.html">
-    <img src="https://img.shields.io/badge/🌷_My_Website_Profil-Visit_Project-FFC8DD?style=for-the-badge&labelColor=F5EEFF" alt="Visit My Website Profile" />
+    <img src="https://img.shields.io/badge/🌷_My_Website_Profile-Visit_Project-FFC8DD?style=for-the-badge&labelColor=F5EEFF" alt="Visit My Website Profile" />
   </a>
 
   <p>Website profil yang kubuat sebagai bagian dari perjalanan belajar web development.</p>
@@ -39,14 +40,10 @@
 
   <h2>💌 A Little Reminder</h2>
 
-  <table>
-    <tr>
-      <td align="center">
-        🌱 <i>Jangan bandingkan prosesmu dengan orang lain.</i><br/>
-        <i>Setiap orang punya waktunya masing-masing.</i> ♡
-      </td>
-    </tr>
-  </table>
+  <p>
+    🌱 <i>Jangan bandingkan prosesmu dengan orang lain.</i><br/>
+    <i>Setiap orang punya waktunya masing-masing.</i> ♡
+  </p>
 
 </div>
 
@@ -78,66 +75,46 @@
 
   <p>Beberapa repository yang menjadi bagian dari perjalanan belajarku 🌷</p>
 
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📚 Introduction</h3>
+        <img src="https://img.shields.io/badge/Category-Learning-FFC8DD?style=flat-square" alt="Learning project" />
+        <p>Kumpulan latihan dan materi dasar pemrograman.</p>
+        <a href="https://github.com/tari2025/introductionprofile">
+          <img src="https://img.shields.io/badge/View-Project-FFC8DD?style=for-the-badge" alt="View Introduction project" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>💡 Conditional Statement</h3>
+        <img src="https://img.shields.io/badge/Category-Logic-CDB4DB?style=flat-square" alt="Logic project" />
+        <p>Latihan logika dan pengambilan keputusan.</p>
+        <a href="https://github.com/tari2025/004_ConditionalStatement">
+          <img src="https://img.shields.io/badge/View-Project-CDB4DB?style=for-the-badge" alt="View Conditional Statement project" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🫧 Bubble Sort</h3>
+        <img src="https://img.shields.io/badge/Category-Algorithm-A2D2FF?style=flat-square" alt="Algorithm project" />
+        <p>Implementasi algoritma pengurutan sederhana.</p>
+        <a href="https://github.com/tari2025/004_BubbleSort">
+          <img src="https://img.shields.io/badge/View-Project-A2D2FF?style=for-the-badge" alt="View Bubble Sort project" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🔁 Looping Switch Case</h3>
+        <img src="https://img.shields.io/badge/Category-Practice-B8E0D2?style=flat-square" alt="Practice project" />
+        <p>Latihan perulangan dan percabangan.</p>
+        <a href="https://github.com/tari2025/LoopingSwitchCase_0004">
+          <img src="https://img.shields.io/badge/View-Project-B8E0D2?style=for-the-badge" alt="View Looping Switch Case project" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-      <h3>📚 Introduction</h3>
-
-      <img src="https://img.shields.io/badge/Category-Learning-FFC8DD?style=flat-square" alt="Learning project" />
-
-      <p>Kumpulan latihan dan materi dasar pemrograman.</p>
-
-      <a href="https://github.com/tari2025/introductionprofile">
-        <img src="https://img.shields.io/badge/View-Project-FFC8DD?style=for-the-badge" alt="View Introduction project" />
-      </a>
-
-    </td>
-    <td width="50%" valign="top">
-
-      <h3>💡 Conditional Statement</h3>
-
-      <img src="https://img.shields.io/badge/Category-Logic-CDB4DB?style=flat-square" alt="Logic project" />
-
-      <p>Latihan logika dan pengambilan keputusan.</p>
-
-      <a href="https://github.com/tari2025/004_ConditionalStatement">
-        <img src="https://img.shields.io/badge/View-Project-CDB4DB?style=for-the-badge" alt="View Conditional Statement project" />
-      </a>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-      <h3>🫧 Bubble Sort</h3>
-
-      <img src="https://img.shields.io/badge/Category-Algorithm-A2D2FF?style=flat-square" alt="Algorithm project" />
-
-      <p>Implementasi algoritma pengurutan sederhana.</p>
-
-      <a href="https://github.com/tari2025/004_BubbleSort">
-        <img src="https://img.shields.io/badge/View-Project-A2D2FF?style=for-the-badge" alt="View Bubble Sort project" />
-      </a>
-
-    </td>
-    <td width="50%" valign="top">
-
-      <h3>🔁 Looping Switch Case</h3>
-
-      <img src="https://img.shields.io/badge/Category-Practice-B8E0D2?style=flat-square" alt="Practice project" />
-
-      <p>Latihan perulangan dan percabangan.</p>
-
-      <a href="https://github.com/tari2025/LoopingSwitchCase_0004">
-        <img src="https://img.shields.io/badge/View-Project-B8E0D2?style=for-the-badge" alt="View Looping Switch Case project" />
-      </a>
-
-    </td>
-  </tr>
-</table>
 
 ---
 
