@@ -1,58 +1,108 @@
+
+<!-- HEADER / BANNER -->
 <div align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Pastel GitHub Profile Banner" />
 
-# 🎀 Hi, I'm Dheny Lesta! ♡
+  <h1>🌷 Hello, I'm tari2025! 💗</h1>
 
-### ✨ IT Student | Web Development | Learning & Growing
+  <p>
+    Mahasiswa Teknologi Informasi yang sedang belajar,
+    berkembang, dan menikmati setiap prosesnya.
+  </p>
 
-*“One step at a time, still a progress.”* 🌷
-
-<img src="https://i.pinimg.com/originals/5c/1a/8a/5c1a8a6b4b7d8b9d1c3b8f5b8f8f8f8f.gif" width="200" alt="Cute anime aesthetic" />
-
+  <p>
+    🌱 Keep Learning &nbsp; | &nbsp;
+    💗 Keep Growing &nbsp; | &nbsp;
+    ⭐ Better Version Everyday
+  </p>
 </div>
-
-## 💗 My Featured Project
-
-🎀 **Tari Lesta — Profile **
-
-✨ [Buka Website Profil ](https://tari2025.github.io/introductionprofile/index8.html)
-
-Website personal dengan desain estetik dan animasi. 💜🌸
-
 
 ---
 
-## 💗 A Little Reminder
-
-> "Tidak harus sempurna untuk memulai.
-> Tidak harus hebat untuk terus belajar.
-> Yang penting, jangan berhenti bertumbuh." 🌱
-
-> "Jangan bandingkan prosesmu dengan orang lain.
-> Setiap orang punya waktunya masing-masing." ♡
-
-## 🧸 My Tech Stack
+<!-- ABOUT ME -->
+<h2 align="center">💌 A Little About Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,react,git,github,vscode" alt="Technology skills" />
+  Hai! Selamat datang di profil GitHub-ku! ♡<br>
+  Di sini aku mengumpulkan perjalanan belajar, latihan coding,
+  dan proyek yang kubuat selama kuliah.<br>
+  Aku percaya bahwa kemajuan kecil tetap berarti. 🌱
 </p>
 
-## 📌 My Projects
+---
 
-Beberapa repository yang sedang aku kumpulkan sebagai perjalanan belajarku:
-
-- 📚 [Introduction](https://github.com/tari2025/introduceprofile.git)
-- 💡 [Conditional Statement](https://github.com/tari2025/004_ConditionalStatement)
-- 🔄 [Bubble Sort](https://github.com/tari2025/004_BubbleSort)
-- 🔁 [Looping Switch Case](https://github.com/tari2025/LoopingSwitchCase_0004)
-
-## 🌷 My Life Motto
+<!-- TECH STACK -->
+<h2 align="center">🧸 My Tech Stack</h2>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,react,git,github,vscode&theme=light"
+       alt="HTML, CSS, JavaScript, Kotlin, React, Git, GitHub, VS Code" />
+</div>
 
-**Be grateful. Keep learning. Keep growing.** ♡
+---
 
-*“Versi terbaik diriku dibangun dari usaha kecil yang kulakukan hari ini.”*
+<!-- PROJECTS -->
+<h2 align="center">🎀 My Projects</h2>
 
-✨ Thank you for visiting my profile! ✨
+<p align="center">
+  Beberapa repository yang menjadi bagian dari perjalanan belajarku.
+</p>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Introduction</h3>
+      Kumpulan materi dan catatan dasar pemrograman.
+      <br><br>
+      <a href="https://github.com/tari2025">🔗 Lihat Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 Conditional Statement</h3>
+      Latihan logika dan pengambilan keputusan.
+      <br><br>
+      <a href="https://github.com/tari2025">🔗 Lihat Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🫧 Bubble Sort</h3>
+      Implementasi algoritma pengurutan sederhana.
+      <br><br>
+      <a href="https://github.com/tari2025">🔗 Lihat Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔁 Looping Switch Case</h3>
+      Latihan struktur perulangan dan percabangan.
+      <br><br>
+      <a href="https://github.com/tari2025">🔗 Lihat Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- LEARNING GOALS -->
+<h2 align="center">🌱 Currently Learning</h2>
+
+<div align="center">
+  💻 Web Development &nbsp; • &nbsp;
+  📱 Android Development &nbsp; • &nbsp;
+  🔌 REST API
+</div>
+
+---
+
+<!-- MOTTO -->
+<div align="center">
+  <h2>🌷 My Life Motto</h2>
+
+  <p><b>Be grateful. Keep learning. Keep growing. ♡</b></p>
+
+  <i>
+    "Versi terbaik diriku dibangun dari usaha kecil
+    yang kulakukan hari ini."
+  </i>
+
+  <br><br>
+  🌸 ✨ 💗 ✨ 🌸
 </div>
