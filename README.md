@@ -1,7 +1,7 @@
 <!-- 🎀 HEADER -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC8DD,50:CDB4DB,100:A2D2FF&height=180&section=header&text=Hello...!,%20I'm_DhenyLesta!&fontSize=38&fontColor=5B4168&animation=fadeIn&fontAlignY=45&desc=Learning%20%7C%20Growing%20%7C%20Creating&descSize=16&descAlignY=70" width="100%" alt="Pastel pink and lavender banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC8DD,50:CDB4DB,100:A2D2FF&height=180&section=header&text=Hello...!%20I'm_DhenyLesta!&fontSize=38&fontColor=5B4168&animation=fadeIn&fontAlignY=45&desc=Learning%20%7C%20Growing%20%7C%20Creating&descSize=16&descAlignY=70" width="100%" alt="Pastel pink and lavender banner" />
 
   <br/>
 
@@ -14,16 +14,15 @@
   <img src="https://img.shields.io/badge/⭐_Better-Everyday-A2D2FF?style=for-the-badge&labelColor=EEF7FF" alt="Better Everyday" />
 
 </div>
-
 ---
 
 <!-- 💗 FEATURED PROJECT -->
 <div align="center">
 
-  <p>My profile ✨ Click here ! </p> 
+  <p>Click here ! ⬇️ </p> 
   
   <a href="https://tari2025.github.io/introductionprofile/index8.html">
-    <img src="https://img.shields.io/badge/🌷_My_Website_Profile-Visit_Project-FFC8DD?style=for-the-badge&labelColor=F5EEFF" alt="Visit My Website Profile" />
+    <img src="https://img.shields.io/badge/🌷_My_Profile-Visit_Project-FFC8DD?style=for-the-badge&labelColor=F5EEFF" alt="Visit My Website Profile" />
   </a>
 
 </div>
@@ -58,7 +57,7 @@
       <td width="50%" valign="top">
         <h3>📚 Introduction</h3>
         <img src="https://img.shields.io/badge/Category-Learning-FFC8DD?style=flat-square" alt="Learning project" />
-        <p>Kumpulan latihan dan materi dasar pemrograman.</p>
+        <p>Projek data diri ⬇️ </p>
         <a href="https://github.com/tari2025/introductionprofile">
           <img src="https://img.shields.io/badge/View-Project-FFC8DD?style=for-the-badge" alt="View Introduction project" />
         </a>
@@ -66,7 +65,7 @@
       <td width="50%" valign="top">
         <h3>💡 Conditional Statement</h3>
         <img src="https://img.shields.io/badge/Category-Logic-CDB4DB?style=flat-square" alt="Logic project" />
-        <p>Latihan logika dan pengambilan keputusan.</p>
+        <p>Latihan logika dan pengambilan keputusan. ⬇️</p>
         <a href="https://github.com/tari2025/004_ConditionalStatement">
           <img src="https://img.shields.io/badge/View-Project-CDB4DB?style=for-the-badge" alt="View Conditional Statement project" />
         </a>
@@ -76,7 +75,7 @@
       <td width="50%" valign="top">
         <h3>🫧 Bubble Sort</h3>
         <img src="https://img.shields.io/badge/Category-Algorithm-A2D2FF?style=flat-square" alt="Algorithm project" />
-        <p>Implementasi algoritma pengurutan sederhana.</p>
+        <p>Implementasi algoritma pengurutan sederhana. ⬇️ </p>
         <a href="https://github.com/tari2025/004_BubbleSort">
           <img src="https://img.shields.io/badge/View-Project-A2D2FF?style=for-the-badge" alt="View Bubble Sort project" />
         </a>
@@ -84,7 +83,7 @@
       <td width="50%" valign="top">
         <h3>🔁 Looping Switch Case</h3>
         <img src="https://img.shields.io/badge/Category-Practice-B8E0D2?style=flat-square" alt="Practice project" />
-        <p>Latihan perulangan dan percabangan.</p>
+        <p>Latihan perulangan dan percabangan. ⬇️ </p>
         <a href="https://github.com/tari2025/LoopingSwitchCase_0004">
           <img src="https://img.shields.io/badge/View-Project-B8E0D2?style=for-the-badge" alt="View Looping Switch Case project" />
         </a>
